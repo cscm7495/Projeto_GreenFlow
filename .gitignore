@@ -1,0 +1,6 @@
+# Ignore venv
+venv/
+
+# Ignore temporary files from OS
+*.DS_Store
+.env
