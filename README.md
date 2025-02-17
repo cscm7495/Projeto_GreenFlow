@@ -38,6 +38,11 @@ Execute the command below to install dependencies listed on `requirements.txt`, 
 pip install -r requirements.txt
 ```
 
+Initiate the app locally
+```bash
+python -m streamlit run src/app.py
+```
+
 ### Using Docker
 ```bash
 docker compose up -d
