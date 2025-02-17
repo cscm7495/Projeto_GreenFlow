@@ -6,6 +6,8 @@ This project is composed of:
 
 - a script called `data_analysis_cleanup_greenflow.py` which works for cleaning the original data, removing duplicates and filling null values. It also provides a summary/overview of the dataset. You can run this script to look at the summary which contains information such as nr. of rows, correlation, mean, std, etc.
 
+- a streamlit app `app.py` which works as an interactive dashboard for data analysis of the dataset
+
 ## Requirements
 
 - Python 3.x
