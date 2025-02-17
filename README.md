@@ -19,6 +19,7 @@ Execute the command below to install dependencies listed on `requirements.txt`:
 
 ```bash
 pip install -r requirements.txt
+```
 
 ### 2. Run the Script Locally
 
@@ -26,6 +27,7 @@ Run the script through a code editor (VSCODE RECOMENDED) or run the following co
 
 ```bash
 python src/data_analysis_cleanup_greenflow.py
+```
 
 ## Instructions for running the streamlit app
 
@@ -34,7 +36,9 @@ Execute the command below to install dependencies listed on `requirements.txt`, 
 
 ```bash
 pip install -r requirements.txt
+```
 
 ### Using Docker
 ```bash
 docker compose up -d
+```
